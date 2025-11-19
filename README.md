@@ -5,7 +5,7 @@ A text‑processing application that classifies written input as **Positive**, *
 
 ##  Overview
 
-This app uses a fine‑tuned NLP model trained on the **e‑DAIC dataset**. Users can input text, and the model returns real‑time sentiment predictions.
+This app uses a fine‑tuned NLP model. Users can input text, and the model returns real‑time sentiment predictions.
 
 ##  Machine Learning
 
