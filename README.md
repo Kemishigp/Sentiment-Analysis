@@ -42,10 +42,3 @@ Run the front-end:
 npm install
 npm run dev
 ```
-
-##  Performance
-
-Include metrics once evaluated:
-
-* Accuracy: *xx%*
-* F1-score: *xx%*
