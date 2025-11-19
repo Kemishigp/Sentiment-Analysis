@@ -1,20 +1,20 @@
 
-## 🤖 Sentiment Analysis App (CS 499 Project)
+##  Sentiment Analysis App (CS 499 Project)
 
 A text‑processing application that classifies written input as **Positive**, **Negative**, or **Neutral**, built as part of my BYU‑Idaho CS 499 Senior Project.
 
-## 🔍 Overview
+##  Overview
 
 This app uses a fine‑tuned NLP model trained on the **e‑DAIC dataset**. Users can input text, and the model returns real‑time sentiment predictions.
 
-## 🧠 Machine Learning
+##  Machine Learning
 
 * Preprocessing with Pandas
 * Tokenization + sequence encoding
 * Model fine‑tuning (HuggingFace Transformers)
 * Deployment via REST API
 
-## 🧰 Tech Stack
+## Tech Stack
 
 * Python
 * Hugging Face Transformers
@@ -22,7 +22,7 @@ This app uses a fine‑tuned NLP model trained on the **e‑DAIC dataset**. User
 * Flask / FastAPI (your choice)
 * Pandas / NumPy
 
-## 📦 Installation
+##  Installation
 
 ```bash
 git clone <repo-url>
@@ -43,7 +43,7 @@ npm install
 npm run dev
 ```
 
-## 📈 Performance
+##  Performance
 
 Include metrics once evaluated:
 
